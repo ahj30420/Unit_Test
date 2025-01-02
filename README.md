@@ -9,4 +9,4 @@
 - [Chapter 03: 단위 테스트 구조](chapter03/src/main/java/project/unitTesting/Chapter03.md)
 - [Chapter 04: 좋은 단위 테스트의 4대 요소](chapter04/src/main/java/project/unitTesting/Chapter04.md)
 - [Chapter 05: 목과 테스트 취약성](chapter05/src/main/java/project/unitTesting/Chapter05.md)
-- [Chapter 06: 목과 테스트 취약성](chapter06/src/main/java/project/unitTesting/Chapter06.md)
+- [Chapter 06: 단위 테스트 스타일](chapter06/src/main/java/project/unitTesting/Chapter06.md)
