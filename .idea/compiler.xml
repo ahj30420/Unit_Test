@@ -13,6 +13,7 @@
         <module name="unit_Test.chapter03.main" />
         <module name="unit_Test.chapter06.main" />
         <module name="unit_Test.chapter08.main" />
+        <module name="unit_Test.chapter10.main" />
         <module name="unit_Test.chapter01.main" />
         <module name="unit_Test.chapter05.main" />
         <module name="unit_Test.chapter09.main" />
